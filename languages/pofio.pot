@@ -1,0 +1,356 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Pofio\n"
+"POT-Creation-Date: 2018-01-14 23:37+0400\n"
+"PO-Revision-Date: 2018-01-14 23:37+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: pofio.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-pofio-admin.php:93
+msgid "Add to Gallery"
+msgstr ""
+
+#: admin/class-pofio-admin.php:94 admin/class-pofio-admin.php:414
+msgid "Set featured gallery images"
+msgstr ""
+
+#: admin/class-pofio-admin.php:95 admin/class-pofio-admin.php:414
+msgid "Click here to edit or update"
+msgstr ""
+
+#: admin/class-pofio-admin.php:96
+msgid "Are you sure you want to remove this image?"
+msgstr ""
+
+#: admin/class-pofio-admin.php:97
+msgid "Are you sure you want to remove all images?"
+msgstr ""
+
+#: admin/class-pofio-admin.php:98
+msgid ""
+"There was an issue with updating the live preview. Make sure that you click "
+"Save to ensure your changes aren't lost."
+msgstr ""
+
+#: admin/class-pofio-admin.php:119
+msgid "Portfolio pages shows at most"
+msgstr ""
+
+#. translators: %1$s is replaced with an input field for numbers
+#: admin/class-pofio-admin.php:141
+#, php-format
+msgid "%1$s projects"
+msgstr ""
+
+#: admin/class-pofio-admin.php:157
+msgid "Portfolio Items"
+msgstr ""
+
+#: admin/class-pofio-admin.php:159
+msgid "Projects"
+msgstr ""
+
+#: admin/class-pofio-admin.php:160 admin/class-pofio-admin.php:348
+msgid "Project"
+msgstr ""
+
+#: admin/class-pofio-admin.php:161
+msgid "Portfolio"
+msgstr ""
+
+#: admin/class-pofio-admin.php:162
+msgid "All Projects"
+msgstr ""
+
+#: admin/class-pofio-admin.php:163
+msgid "Add New"
+msgstr ""
+
+#: admin/class-pofio-admin.php:164
+msgid "Add New Project"
+msgstr ""
+
+#: admin/class-pofio-admin.php:165
+msgid "Edit Project"
+msgstr ""
+
+#: admin/class-pofio-admin.php:166
+msgid "New Project"
+msgstr ""
+
+#: admin/class-pofio-admin.php:167
+msgid "View Project"
+msgstr ""
+
+#: admin/class-pofio-admin.php:168
+msgid "Search Projects"
+msgstr ""
+
+#: admin/class-pofio-admin.php:169
+msgid "No Projects found"
+msgstr ""
+
+#: admin/class-pofio-admin.php:170
+msgid "No Projects found in Trash"
+msgstr ""
+
+#: admin/class-pofio-admin.php:171
+msgid "Filter projects list"
+msgstr ""
+
+#: admin/class-pofio-admin.php:172
+msgid "Project list navigation"
+msgstr ""
+
+#: admin/class-pofio-admin.php:173
+msgid "Projects list"
+msgstr ""
+
+#: admin/class-pofio-admin.php:207 admin/class-pofio-admin.php:209
+msgid "Project Types"
+msgstr ""
+
+#: admin/class-pofio-admin.php:208
+msgid "Project Type"
+msgstr ""
+
+#: admin/class-pofio-admin.php:210
+msgid "All Project Types"
+msgstr ""
+
+#: admin/class-pofio-admin.php:211
+msgid "Edit Project Type"
+msgstr ""
+
+#: admin/class-pofio-admin.php:212
+msgid "View Project Type"
+msgstr ""
+
+#: admin/class-pofio-admin.php:213
+msgid "Update Project Type"
+msgstr ""
+
+#: admin/class-pofio-admin.php:214
+msgid "Add New Project Type"
+msgstr ""
+
+#: admin/class-pofio-admin.php:215
+msgid "New Project Type Name"
+msgstr ""
+
+#: admin/class-pofio-admin.php:216
+msgid "Parent Project Type"
+msgstr ""
+
+#: admin/class-pofio-admin.php:217
+msgid "Parent Project Type:"
+msgstr ""
+
+#: admin/class-pofio-admin.php:218
+msgid "Search Project Types"
+msgstr ""
+
+#: admin/class-pofio-admin.php:219
+msgid "Project type list navigation"
+msgstr ""
+
+#: admin/class-pofio-admin.php:220
+msgid "Project type list"
+msgstr ""
+
+#: admin/class-pofio-admin.php:235 admin/class-pofio-admin.php:237
+msgid "Project Tags"
+msgstr ""
+
+#: admin/class-pofio-admin.php:236
+msgid "Project Tag"
+msgstr ""
+
+#: admin/class-pofio-admin.php:238
+msgid "All Project Tags"
+msgstr ""
+
+#: admin/class-pofio-admin.php:239
+msgid "Edit Project Tag"
+msgstr ""
+
+#: admin/class-pofio-admin.php:240
+msgid "View Project Tag"
+msgstr ""
+
+#: admin/class-pofio-admin.php:241
+msgid "Update Project Tag"
+msgstr ""
+
+#: admin/class-pofio-admin.php:242
+msgid "Add New Project Tag"
+msgstr ""
+
+#: admin/class-pofio-admin.php:243
+msgid "New Project Tag Name"
+msgstr ""
+
+#: admin/class-pofio-admin.php:244
+msgid "Search Project Tags"
+msgstr ""
+
+#: admin/class-pofio-admin.php:245
+msgid "Popular Project Tags"
+msgstr ""
+
+#: admin/class-pofio-admin.php:246
+msgid "Separate tags with commas"
+msgstr ""
+
+#: admin/class-pofio-admin.php:247
+msgid "Add or remove tags"
+msgstr ""
+
+#: admin/class-pofio-admin.php:248
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: admin/class-pofio-admin.php:249
+msgid "No tags found."
+msgstr ""
+
+#: admin/class-pofio-admin.php:250
+msgid "Project tag list navigation"
+msgstr ""
+
+#: admin/class-pofio-admin.php:251
+msgid "Project tag list"
+msgstr ""
+
+#: admin/class-pofio-admin.php:321
+#, php-format
+msgid "Project updated. <a href=\"%s\">View item</a>"
+msgstr ""
+
+#: admin/class-pofio-admin.php:322
+msgid "Custom field updated."
+msgstr ""
+
+#: admin/class-pofio-admin.php:323
+msgid "Custom field deleted."
+msgstr ""
+
+#: admin/class-pofio-admin.php:324
+msgid "Project updated."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: admin/class-pofio-admin.php:326
+#, php-format
+msgid "Project restored to revision from %s"
+msgstr ""
+
+#: admin/class-pofio-admin.php:327
+#, php-format
+msgid "Project published. <a href=\"%s\">View project</a>"
+msgstr ""
+
+#: admin/class-pofio-admin.php:328
+msgid "Project saved."
+msgstr ""
+
+#: admin/class-pofio-admin.php:329
+#, php-format
+msgid "Project submitted. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+#: admin/class-pofio-admin.php:330
+#, php-format
+msgid ""
+"Project scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview project</a>"
+msgstr ""
+
+#. translators: Publish box date format, @see http://php.net/date
+#: admin/class-pofio-admin.php:331
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: admin/class-pofio-admin.php:332
+#, php-format
+msgid ""
+"Project item draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"project</a>"
+msgstr ""
+
+#: admin/class-pofio-admin.php:395
+msgid "Featured Gallery"
+msgstr ""
+
+#: admin/class-pofio-admin.php:429
+msgid "Click the image to edit or update"
+msgstr ""
+
+#: admin/class-pofio-admin.php:430
+msgid "Remove featured gallery images"
+msgstr ""
+
+#: admin/class-pofio-admin.php:532
+msgid "Start by writing a compelling title that describes your project"
+msgstr ""
+
+#: admin/class-pofio-admin.php:556 admin/class-pofio-admin.php:591
+msgid "What was your client's name on this project?"
+msgstr ""
+
+#: public/class-pofio-public.php:232
+msgid ""
+"Your Portfolio Archive currently has no entries. You can start creating them "
+"on your dashboard."
+msgstr ""
+
+#: public/class-pofio-public.php:291
+msgid "Types"
+msgstr ""
+
+#: public/class-pofio-public.php:320
+msgid "Tags"
+msgstr ""
+
+#. translators: %1$s is link to author posts, %2$s is author display name
+#: public/class-pofio-public.php:346
+#, php-format
+msgid "<span>Author:</span> <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Pofio"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/mypreview/pofio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Registers a custom post type along with tags and categories for portfolio "
+"projects."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MyPreview"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.mypreview.one"
+msgstr ""
